@@ -1,0 +1,18 @@
+.class{
+   opacity: 0,5;
+  width: 500px;
+  height: 400px;
+}
+.class2{
+    letter-spacing: 1px;
+    color: rgb(147, 147, 211);
+
+}
+.class3{
+    font-size: 15px;
+    margin-top: 10px;
+    opacity: 60%;
+    font-family: serif;
+    letter-spacing: 1px;
+    
+}

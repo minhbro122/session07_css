@@ -1,0 +1,30 @@
+.font{
+    background-color: rgb(238, 230, 230);
+    width: 520px;
+    height: 280px;
+    
+}
+.span1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.font2{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+.span2{
+    background-color: red;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+   padding: 10px 20px;
+   border: 0;
+   
+}
+.span3{
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+    padding: 10px 20px ;
+    border: 0;
+}
+
